@@ -14,3 +14,7 @@ def pop_with_args(array)
   using_pop(array)
   using_pop(array)
 end
+def shift_with_args(array)
+end
+def using_concat(array_1,array_2)
+end
