@@ -1,1 +1,3 @@
-def using_p
+def using_push(array)
+  array.push("")
+end
